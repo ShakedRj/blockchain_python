@@ -27,7 +27,7 @@ The command I used for ETH is the following (I sent ETH from account one to acco
 
 This is the confirmation that the transaction went through (its on "pending" it will take a while untill it will be "successful"):
 
-![txeth](img/ethtx.img)
+![txeth](img/ethtx.png)
 
 
 
